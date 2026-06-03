@@ -1,0 +1,6 @@
+{
+  "name": "حساب الحانوت",
+  "description": "تطبيق ذكي لتسيير مبيعات وفواتير الحانوت المغربي بالصوت، الباركد، والواتساب والطباعة بالبلوتوث.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
